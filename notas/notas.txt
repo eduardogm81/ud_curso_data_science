@@ -1,0 +1,22 @@
+===========================
+Anaconda Navigator
+===========================
+Creacion de entorno (data)
+Instalación de paquetes
+	pandas
+	numpy
+	matplotlib
+Añadir Channel
+	conda-forge
+
+===========================
+Anaconda Prompt
+===========================	
+Cambio de directorio de trabajo:
+jupyter notebook --generate-config
+
+===========================	
+Github
+===========================	
+https://github.com/manugarri/curso_data_science
+
